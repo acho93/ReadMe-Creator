@@ -2,22 +2,22 @@
 # ReadMe Generator
 
 ## Table of Contents 
-[Description](#description)
-[Installation](#installation)
-[Usage](#usage)
-[License](#license)
-[Contribution](#contribution)
-[Tests](#test)
-[Questions](#question)
+[Description](#description)  
+[Installation](#installation)  
+[Usage](#usage)  
+[License](#license)  
+[Contribution](#contribution)  
+[Tests](#test)  
+[Questions](#question)  
 
 ## Description
-Creates ReadMe files from user input.
+Generate ReadMe files from user input.
 
 ## Installation
-Install npm install for inquirer
+Install npm install
 
 ## Usage
-The project is used to create ReadMe files.
+To create ReadMe files.
 
 ## License
 This project is covered under Apache.
@@ -29,6 +29,6 @@ Ashley Cho
 There is no test included.
 
 ## Questions
-Contact me on GitHub or email:
+Contact me at GitHub or email:
 GitHub: https://github.com/acho93
 Email: ashleycho@gmail.com
