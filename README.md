@@ -1,5 +1,14 @@
 # README.md Generator Using Node.js
 
+## Table of Contents 
+[Description](#description)  
+[Installation](#installation)  
+[Usage](#usage)  
+[License](#license)  
+[Contribution](#contribution)  
+[Tests](#test)  
+[Questions](#question)  
+
 ## Description
 Using inquirer from node.js, this application compiles data from user input to create a README.md file for the user's project. Here is a video of how it functions: 
 
@@ -12,13 +21,13 @@ When you run node index.js, the application uses inquirer to prompt the user to 
 ## License
 N/A
 
-## Contributor(s)
+## Contribution
 Ashley Cho
 
-## Tests
+## Test
 There is no test included.
 
-## Questions
+## Question
 Please contact my on GitHub or email
 GitHub: https://github.com/acho93
 Email: ashleycho.slp@gmail.com
