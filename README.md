@@ -10,7 +10,7 @@
 [Questions](#question)  
 
 ## Description
-Using inquirer from node.js, this application compiles data from user input to create a README.md file for the user's project. Here is a video of how it functions: 
+Using inquirer from node.js, this application compiles data from user input to create a README.md file for the user's project. Here is a video of how it functions: https://youtu.be/6dzYMKoFZnI
 
 ## Installation
 You will need to run npm install to use inquirer.

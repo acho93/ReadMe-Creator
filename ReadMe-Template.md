@@ -11,13 +11,13 @@
 [Questions](#question)  
 
 ## Description
-Generate ReadMe files from user input.
+This application generates a README.md file based on user input.
 
 ## Installation
-Install npm install
+You will need npm install to run this program.
 
 ## Usage
-To create ReadMe files.
+This project is used to create README files.
 
 ## License
 This project is covered under Apache.
@@ -26,9 +26,9 @@ This project is covered under Apache.
 Ashley Cho
 
 ## Tests
-There is no test included.
+There is a sample README file included.
 
 ## Questions
-Contact me at GitHub or email:
+Please contact me on GitHub or email:
 GitHub: https://github.com/acho93
 Email: ashleycho@gmail.com
