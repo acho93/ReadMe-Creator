@@ -11,13 +11,13 @@
 [Questions] (#question)
 
 ## Description
-Create a ReadMe file using node
+Creates ReadMe files
 
 ## Installation
-You need to install npm inquirer
+npm install
 
 ## Usage
-The project is used to create a ReadMe file given question prompts
+Create ReadMe Files
 
 ## License
 This project is covered under Apache.
@@ -26,9 +26,9 @@ This project is covered under Apache.
 Ashley Cho
 
 ## Tests
-There is no test included.
+No
 
 ## Questions
-Please contact my on GitHub or email
+Contact me at GitHub or email
 GitHub: https://github.com/acho93
-Email: ashleycho.slp@gmail.com
+Email: ashleycho@gmail.com
