@@ -85,7 +85,7 @@ async function init() {
     inquirer.prompt(questions).then((answers)=>{
         console.log(answers)
         console.log(generateMarkdown(answers))
-        fs.writeFileSync("ReadMe-Template.md", generateMarkdown(answers))
+        fs.writeFileSync('./dist/ReadMe-Template.md', generateMarkdown(answers))
     })
 
 } 
